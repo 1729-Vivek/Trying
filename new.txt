@@ -1,0 +1,4 @@
+I am trying to learn how to push the project to git .
+First copy the https link from your github profile and type git clone "link"
+in the git bash in the destinated folder.
+then initialise a git repository and create a file and write something in that code.
